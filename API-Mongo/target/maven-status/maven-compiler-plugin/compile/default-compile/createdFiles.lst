@@ -1,0 +1,10 @@
+com\edu\tecazuay\controller\ProductRestController.class
+com\edu\tecazuay\swagger\config\OpenConfigApi.class
+com\edu\tecazuay\model\repository\ProductRepository.class
+com\edu\tecazuay\generic\service\imp\GenericServiceImp.class
+com\edu\tecazuay\service\imp\ProductServiceImp.class
+com\edu\tecazuay\generic\service\GenericService.class
+com\edu\tecazuay\ApiMongoApplication.class
+com\edu\tecazuay\model\generic\repository\GenericRepository.class
+com\edu\tecazuay\swagger\config\OpenConfigApi$OpenApiConfig.class
+com\edu\tecazuay\model\entity\Product.class
