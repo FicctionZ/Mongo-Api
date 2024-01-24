@@ -20,7 +20,7 @@ import com.edu.tecazuay.service.imp.ProductServiceImp;
 
 @RestController
 @RequestMapping("/api/products")
-@CrossOrigin(origins = {"http://localhost:3000"})
+@CrossOrigin(origins = {"*"})
 public class ProductRestController {
 
 	@Autowired
