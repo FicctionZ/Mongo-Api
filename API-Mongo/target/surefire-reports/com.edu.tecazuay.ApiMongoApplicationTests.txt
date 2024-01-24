@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.edu.tecazuay.ApiMongoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.494 s -- in com.edu.tecazuay.ApiMongoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.436 s -- in com.edu.tecazuay.ApiMongoApplicationTests
